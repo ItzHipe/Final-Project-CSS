@@ -21,26 +21,4 @@ This project is the final assignment for the CSS module. It demonstrates the app
     ```
 
 ## Usage
-Open `index.html` in your preferred web browser to view the project.
-
-## Contributing
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m "Description of changes"
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-branch
-    ```
-5. Create a pull request.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any questions or feedback, please contact [your email].
+Open `Website.html` in your preferred web browser to view the project.
